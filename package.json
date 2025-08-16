@@ -1,6 +1,7 @@
 {
   "name": "url",
   "version": "1.0.0",
+  
   "description": "",
   "main": "app.js",
   "scripts": {
@@ -10,5 +11,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs"
+  "type": "module"
 }
